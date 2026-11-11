@@ -66,6 +66,6 @@ The dashboard enables analysis of:
 Customer Dashboard
 ![customer dashboard](customer%20dashboard.PNG)
 Profit Dashboard:
-![profit Dashboard](profit_dashboard.PNG)
+![profit Dashboard](profit%20dashboard.PNG)
 Sales Dashboard:
-![sales dashboard](sales_dashboard.PNG)
+![sales dashboard](sales%20dashboard.PNG)
