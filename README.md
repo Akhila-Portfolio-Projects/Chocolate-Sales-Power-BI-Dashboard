@@ -62,5 +62,10 @@ The dashboard enables analysis of:
 - Customer purchasing behaviour and loyalty patterns.
 - Trends and performance using interactive Power BI visuals.
 
-- 
-
+# project Screenshots:
+Customer Dashboard
+![customer dashboard](customer_dashboard.PNG)
+Profit Dashboard:
+![profit Dashboard](profit_dashboard.PNG)
+Sales Dashboard:
+![sales dashboard](sales_dashboard.PNG)
