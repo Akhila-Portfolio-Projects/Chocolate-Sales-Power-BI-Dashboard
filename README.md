@@ -64,7 +64,7 @@ The dashboard enables analysis of:
 
 # project Screenshots:
 Customer Dashboard
-![customer dashboard](customer_dashboard.PNG)
+![customer dashboard](customer%20dashboard.PNG)
 Profit Dashboard:
 ![profit Dashboard](profit_dashboard.PNG)
 Sales Dashboard:
